@@ -2,4 +2,3 @@ flask
 scikit-learn
 gunicorn
 pandas
-pickle
